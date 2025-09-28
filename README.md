@@ -52,18 +52,16 @@ azure-car-dealership-lab/
 
 ## 🛠️ Setup Steps
 
-### 1. Clone the Repository (or copy the scripts)
+### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/fullstackdataengineer/azure-car-dealership-lab.git
 cd azure-car-dealership-lab
 ```
 
 ### 2. Set Up a Python Virtual Environment
 
 ```bash
-mkdir azure-car-dealership-lab
-cd azure-car-dealership-lab
 python3 -m venv azurenv
 source azurenv/bin/activate  # or .venv\Scripts\activate on Windows
 ```
