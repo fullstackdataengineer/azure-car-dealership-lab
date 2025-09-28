@@ -42,7 +42,7 @@ These are like a username and password pair for cloud access.
 azure-car-dealership-lab/
 ├── generate_car_dealership_dataset.py       # Create synthetic car data + upload to Azure
 ├── generate_car_dealership_html_page.py     # Generate and deploy HTML inventory page
-├── azure_table_queries.py                   # A tutorial to lear how to get Table Storage data
+├── azure_table_queries.py                   # A tutorial to learn how to get Table Storage data
 ├── car.png                                  # For simplicity, we use the same car image to represent each car in stock
 ├── index.html                               # Auto-generated HTML file (for $web hosting)
 └── README.md                                # You are here ✅
